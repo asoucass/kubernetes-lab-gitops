@@ -1,0 +1,4 @@
+argocd:
+  redis:
+    image:
+      repository: docker.io
