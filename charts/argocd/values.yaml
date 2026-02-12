@@ -1,4 +1,4 @@
 argo-cd:
   redis:
     image:
-      repository: docker.io
+      repository: docker.io/redis
